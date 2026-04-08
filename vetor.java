@@ -13,9 +13,8 @@ public class vetor {
             System.out.println("Nome: " + tabela[i][0]);
             System.out.println("Valor: " + tabela[i][1]);
             System.out.println("-----");
-            System.out.println("Maior valor: "  );
+            
         } 
-
         
     }
 }
